@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "components/*"
+  ],
+  "useNx": false,
+  "version": "independent"
+}

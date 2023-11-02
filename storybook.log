@@ -1,0 +1,21 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! 
+npm ERR! While resolving: playground@undefined
+npm ERR! Found: vue@3.3.7
+npm ERR! node_modules/vue
+npm ERR!   vue@"^3.3.7" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer vue@"^2.6.8" from @storybook/vue@7.5.2
+npm ERR! node_modules/@storybook/vue
+npm ERR!   dev @storybook/vue@"^7.5.2" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force, or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! See /Users/alianleon/.npm/eresolve-report.txt for a full report.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/alianleon/.npm/_logs/2023-11-02T13_03_57_726Z-debug-0.log
