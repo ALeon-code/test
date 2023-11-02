@@ -10,7 +10,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <tr>
+  <tr class="table-row">
     <td v-for="(value, index) in values" :key="index">
       {{ value }}
     </td>
